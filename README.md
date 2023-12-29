@@ -1,5 +1,11 @@
 # ZodiacSwap Decentralized Exchange (DEX) on Viction Blockchain
 
+<p align="center">
+  <a href="https://zodiacswap.xyz">
+      <img src="https://zodiacswap.xyz/logo.png" height="128">
+  </a>
+</p>
+
 Welcome to ZodiacSwap, your celestial gateway to decentralized finance on the Viction Blockchain. We go beyond the ordinary, offering a cosmic ecosystem that not only includes a decentralized exchange (DEX) but also features unique yield farming experiences, such as Farming LP and Staking Pools. Brace yourself for an unparalleled journey into the world of ZodiacSwap, where the stars align for DeFi enthusiasts.
 
 ## Features:
