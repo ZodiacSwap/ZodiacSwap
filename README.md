@@ -41,6 +41,8 @@ Ascend to new heights by participating in our IFO Launchpad. Gain early access t
 - **Website:** [https://zodiacswap.io](https://zodiacswap.xyz)
 - **Twitter:** [@ZodiacSwap](https://twitter.com/ZodiacSwap)
 - **Discord:** [ZodiacSwap Community](https://discord.gg/bQehF5VxcR)
-- **Medium:** [ZodiacSwap Blog](https://medium.com/zodiacswap)
+- **Medium:** [ZodiacSwap Medium](https://medium.com/zodiacswap)
+- **Blog:** [ZodiacSwap Blog](https://blog.zodiacswap.xyz)
+
 
 Embark on a journey like no other with ZodiacSwap, where the cosmos meets decentralized finance. May the stars guide your transactions!
